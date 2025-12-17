@@ -32,6 +32,10 @@ This project is fully frontend-based and focuses on UI design, logic, and intera
 ![Login](screenshots/login.png.png)
 ![Upload lost items](screenshots/upload.png.png)
 
+## 👥 Project Owners
+- Anirudh ([@Anirudh-Saini10](https://github.com/Anirudh-Saini10))
+- Ashaz Ali Khan([@ashazalikhan014-coder](https://github.com/ashazalikhan014-coder))
+
 ## ▶️ Running the Project
 
 1. Clone the repository:
