@@ -27,10 +27,10 @@ This project is fully frontend-based and focuses on UI design, logic, and intera
 ---
 ## 🖼️ Preview
 
-![Dashboard](screenshots/dashboard.png)
-![Items](screenshots/items.png)
-![Login](screenshots/login.png)
-![Upload lost items](screenshots/upload.png)
+![Dashboard](screenshots/dashboard.png.png)
+![Items](screenshots/items.png.png)
+![Login](screenshots/login.png.png)
+![Upload lost items](screenshots/upload.png.png)
 
 ## ▶️ Running the Project
 
