@@ -25,7 +25,12 @@ The platform allows users to post details of lost or found items, browse listing
 This project is fully frontend-based and focuses on UI design, logic, and interaction flow.
 
 ---
+## 🖼️ Preview
 
+![Dashboard](screenshots/dashboard.png)
+![Items](screenshots/items.png)
+![Login](screenshots/login.png)
+![Upload lost items](screenshots/upload.png)
 
 ## ▶️ Running the Project
 
